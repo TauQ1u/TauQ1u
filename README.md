@@ -17,7 +17,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=This+is+co2medium%27s+GitHub" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=This+is+TauQ1u%27s+GitHub" />
 </p>
 
 <br/>
@@ -28,7 +28,7 @@
 ## About Me
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/co2medium"><img src="https://img.shields.io/badge/GitHub-co2medium-white?logo=github" /></a>
+<a href="https://github.com/TauQ1u"><img src="https://img.shields.io/badge/GitHub-TauQ1u-white?logo=github" /></a>
 <a href="https://space.bilibili.com/3546597981948005"><img src="https://img.shields.io/badge/Bilibili-不想恋爱金城武-blue?logo=bilibili" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- <img src="https://komarev.com/ghpvc/?username=SXP-Simon" /> -->
